@@ -1,0 +1,65 @@
+<svg width="860" height="260" viewBox="0 0 860 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="cardglow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="scangrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="50%" stop-color="#CC1F1F"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Kart arka planı -->
+  <rect x="2" y="2" width="856" height="256" rx="4" fill="#0a0000" stroke="#CC1F1F" stroke-width="1" opacity="0.9"/>
+
+  <!-- Sol kırmızı çizgi -->
+  <rect x="2" y="2" width="3" height="256" rx="2" fill="#CC1F1F" filter="url(#cardglow)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Scan line -->
+  <rect x="2" y="2" width="856" height="1.5" rx="1" fill="url(#scangrad2)">
+    <animate attributeName="y" values="2;256;2" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Logo (image embed) -->
+  <image href="logo.png" x="20" y="10" width="280" height="80" preserveAspectRatio="xMidYMid meet"/>
+
+  <!-- Ayırıcı çizgi logonun altında -->
+  <line x1="20" y1="95" x2="680" y2="95" stroke="#CC1F1F" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Metin -->
+  <text x="20" y="118" font-family="Arial, sans-serif" font-size="11.5" fill="#aaaaaa" letter-spacing="0.3">Oyun geliştirme süreçlerine yeni bir soluk getirmek ve kendi standartlarımızı yaratmak için</text>
+  <text x="20" y="134" font-family="Arial, sans-serif" font-size="11.5" fill="#aaaaaa" letter-spacing="0.3">kurucularından biri olduğum DuckingCore'u kurduk.</text>
+
+  <text x="20" y="158" font-family="Arial, sans-serif" font-size="11.5" fill="#aaaaaa" letter-spacing="0.3">Biz her sorunun cevabına önceden sahip olduğumuzu söylemiyoruz. Bizim asıl gücümüz,</text>
+  <text x="20" y="174" font-family="Arial, sans-serif" font-size="11.5" fill="#aaaaaa" letter-spacing="0.3">bilmediğimiz şeylerle karşılaştığımızda onları yolda, üretimin içindeyken çözme refleksimiz.</text>
+
+  <text x="20" y="198" font-family="Arial, sans-serif" font-size="11.5" fill="#aaaaaa" letter-spacing="0.3">Teknik disipline ve mühendislik kalitesine odaklanan, kararlarını bağımsızca alan bir ekibiz.</text>
+  <text x="20" y="214" font-family="Arial, sans-serif" font-size="11.5" fill="#aaaaaa" letter-spacing="0.3">Başkalarının belirlediği sınırların içinde kalmak yerine, kendi yolumuzu kendimiz inşa ediyoruz.</text>
+
+  <!-- Ayırıcı -->
+  <line x1="20" y1="228" x2="680" y2="228" stroke="#CC1F1F" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- İstatistikler -->
+  <text x="20" y="248" font-family="Arial Black, sans-serif" font-size="13" fill="#CC1F1F" font-weight="900">2026</text>
+  <text x="80" y="248" font-family="Arial, sans-serif" font-size="9" fill="#666666" letter-spacing="2">KURULUŞ</text>
+
+  <text x="210" y="248" font-family="Arial Black, sans-serif" font-size="13" fill="#CC1F1F" font-weight="900">10</text>
+  <text x="232" y="248" font-family="Arial, sans-serif" font-size="9" fill="#666666" letter-spacing="2">KİŞİLİK EKİP</text>
+
+  <text x="390" y="248" font-family="Arial Black, sans-serif" font-size="13" fill="#CC1F1F" font-weight="900">100%</text>
+  <text x="440" y="248" font-family="Arial, sans-serif" font-size="9" fill="#666666" letter-spacing="2">BAĞIMSIZ</text>
+
+  <text x="570" y="248" font-family="Arial Black, sans-serif" font-size="13" fill="#CC1F1F" font-weight="900">∞</text>
+  <text x="588" y="248" font-family="Arial, sans-serif" font-size="9" fill="#666666" letter-spacing="2">MOTİVASYON</text>
+
+  <!-- Maskot sağda -->
+  <image href="duck.png" x="690" y="20" width="155" height="220" preserveAspectRatio="xMidYMid meet"/>
+</svg>
