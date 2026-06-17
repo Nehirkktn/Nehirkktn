@@ -1,0 +1,50 @@
+<svg width="860" height="240" viewBox="0 0 860 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="cardglow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="scangrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="50%" stop-color="#CC1F1F"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="856" height="236" rx="4" fill="#0a0000" stroke="#CC1F1F" stroke-width="1" opacity="0.9"/>
+  <rect x="2" y="2" width="3" height="236" rx="2" fill="#CC1F1F" filter="url(#cardglow)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="2" y="2" width="856" height="1.5" rx="1" fill="url(#scangrad2)">
+    <animate attributeName="y" values="2;236;2" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Alıntı -->
+  <text x="36" y="48" font-family="Arial, sans-serif" font-size="13" fill="#CC1F1F" font-style="italic" letter-spacing="0.5">"Those who follow maps drawn by others</text>
+  <text x="36" y="68" font-family="Arial, sans-serif" font-size="13" fill="#CC1F1F" font-style="italic" letter-spacing="0.5">can only reach where others have been."</text>
+
+  <!-- Ayırıcı -->
+  <line x1="36" y1="88" x2="824" y2="88" stroke="#CC1F1F" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- İçerik -->
+  <text x="36" y="116" font-family="Arial, sans-serif" font-size="12" fill="#aaaaaa" letter-spacing="0.5">DuckingCore is not a studio for those who follow templates.</text>
+  <text x="36" y="136" font-family="Arial, sans-serif" font-size="12" fill="#aaaaaa" letter-spacing="0.5">It's for those who draw their own path. No funding. No connections.</text>
+  <text x="36" y="156" font-family="Arial, sans-serif" font-size="12" fill="#aaaaaa" letter-spacing="0.5">Just a vision, a team that believes in the same thing, and games that matter.</text>
+
+  <!-- İstatistikler -->
+  <text x="36" y="196" font-family="'Orbitron', 'Arial Black', sans-serif" font-size="18" fill="#CC1F1F" font-weight="900">2026</text>
+  <text x="36" y="214" font-family="Arial, sans-serif" font-size="10" fill="#666666" letter-spacing="2">FOUNDED</text>
+
+  <text x="200" y="196" font-family="'Orbitron', 'Arial Black', sans-serif" font-size="18" fill="#CC1F1F" font-weight="900">10</text>
+  <text x="200" y="214" font-family="Arial, sans-serif" font-size="10" fill="#666666" letter-spacing="2">PERSON TEAM</text>
+
+  <text x="360" y="196" font-family="'Orbitron', 'Arial Black', sans-serif" font-size="18" fill="#CC1F1F" font-weight="900">100%</text>
+  <text x="360" y="214" font-family="Arial, sans-serif" font-size="10" fill="#666666" letter-spacing="2">INDEPENDENT</text>
+
+  <text x="540" y="196" font-family="'Orbitron', 'Arial Black', sans-serif" font-size="18" fill="#CC1F1F" font-weight="900">∞</text>
+  <text x="540" y="214" font-family="Arial, sans-serif" font-size="10" fill="#666666" letter-spacing="2">MOTIVATION</text>
+</svg>
