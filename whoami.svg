@@ -1,0 +1,41 @@
+<svg width="860" height="220" viewBox="0 0 860 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="cardglow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="scangrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="50%" stop-color="#CC1F1F"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="856" height="216" rx="4" fill="#0a0000" stroke="#CC1F1F" stroke-width="1" opacity="0.9"/>
+  <rect x="2" y="2" width="3" height="216" rx="2" fill="#CC1F1F" filter="url(#cardglow)">
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="2" y="2" width="856" height="1.5" rx="1" fill="url(#scangrad)">
+    <animate attributeName="y" values="2;216;2" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Vurgulu ilk cümle -->
+  <text x="30" y="38" font-family="Arial Black, sans-serif" font-size="14" fill="#CC1F1F" font-weight="900" letter-spacing="0.5">I don't wait for the right moment. I create it.</text>
+
+  <line x1="30" y1="50" x2="830" y2="50" stroke="#CC1F1F" stroke-width="0.5" opacity="0.3"/>
+
+  <text x="30" y="74" font-family="Arial, sans-serif" font-size="12" fill="#aaaaaa">One of the founders of an indie game studio — built and led the team from scratch,</text>
+  <text x="30" y="91" font-family="Arial, sans-serif" font-size="12" fill="#aaaaaa">took ownership of the entire process from day one. Most people wait until they feel ready.</text>
+  <text x="30" y="108" font-family="Arial, sans-serif" font-size="12" fill="#aaaaaa">I've never believed in that.</text>
+
+  <text x="30" y="133" font-family="Arial, sans-serif" font-size="12" fill="#aaaaaa">I push for the best in everything I do. I stay calm under pressure, plan carefully,</text>
+  <text x="30" y="150" font-family="Arial, sans-serif" font-size="12" fill="#aaaaaa">and see things through to the end. Bold decisions don't scare me — reckless ones do.</text>
+  <text x="30" y="167" font-family="Arial, sans-serif" font-size="12" fill="#aaaaaa">That's the difference.</text>
+
+  <text x="30" y="192" font-family="Arial, sans-serif" font-size="12" fill="#aaaaaa">I learn fast, adapt faster, and I'm not afraid to step into the unknown.</text>
+  <text x="30" y="209" font-family="Arial, sans-serif" font-size="12" fill="#aaaaaa">Because that's where real progress happens.</text>
+</svg>
