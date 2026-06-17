@@ -27,7 +27,7 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Nehirkktn/Nehirkktn/main/whoami.svg?v=3" width="860"/>
+<img src="https://raw.githubusercontent.com/Nehirkktn/Nehirkktn/main/about.svg" width="860"/>
 </div>
 
 <br/>
