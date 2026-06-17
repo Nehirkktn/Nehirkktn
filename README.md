@@ -27,7 +27,7 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Nehirkktn/Nehirkktn/main/whoami.svg" width="860"/>
+<img src="https://raw.githubusercontent.com/Nehirkktn/Nehirkktn/main/whoami.svg?v=2" width="860"/>
 </div>
 
 <br/>
@@ -41,7 +41,7 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Nehirkktn/Nehirkktn/main/duckingcore_card.svg" width="860"/>
+<img src="https://raw.githubusercontent.com/Nehirkktn/Nehirkktn/main/duckingcore_card.svg?v=2" width="860"/>
 </div>
 
 <br/>
