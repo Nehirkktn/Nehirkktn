@@ -1,24 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0000,30:CC1F1F,60:8B0000,100:0a0000&height=280&section=header&text=NEHIR%20KÖKTEN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45&stroke=CC1F1F&strokeWidth=1&desc=Software%20Engineer%20·%20Game%20Developer%20·%20Studio%20Founder&descSize=18&descAlignY=68&descAlign=50&descColor=ffffff" />
+![header](header.svg)
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=18&duration=2500&pause=800&color=FF2222&background=00000000&center=true&vCenter=true&width=900&height=50&lines=🎮+FOUNDER+%40+DUCKINGCORE+INDIE+GAME+STUDIO;🔥+BUILDING+GAMES+THAT+ACTUALLY+MATTER;⚡+FIRST+YEAR+STUDENT+—+ALREADY+SHIPPING;🚀+10-PERSON+TEAM+%7C+1ST+GAME+IN+DEV" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=16&duration=2000&pause=600&color=FF0000&background=00000000&center=true&vCenter=true&width=900&height=45&lines=FOUNDER+%40+DUCKINGCORE+—+INDIE+GAME+STUDIO;FIRST+YEAR.+REAL+TEAM.+REAL+GAME.;I+DON'T+WAIT.+I+BUILD.;10-PERSON+TEAM+%7C+GAME+IN+DEVELOPMENT;THE+GOAL%3F+MAKE+SOMETHING+THAT+MATTERS." alt="Typing SVG" />
 
 <br/>
 
-<a href="https://www.linkedin.com/in/nehirkktn/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/▸%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehirkktn/)
 &nbsp;
-<a href="https://itch.io/">
-  <img src="https://img.shields.io/badge/DuckingCore-CC1F1F?style=for-the-badge&logo=itch.io&logoColor=white" />
-</a>
+[![DuckingCore](https://img.shields.io/badge/▸%20DUCKINGCORE-CC1F1F?style=for-the-badge&logo=itch.io&logoColor=white)](https://itch.io/)
 &nbsp;
-<a href="mailto:emailadresin@gmail.com">
-  <img src="https://img.shields.io/badge/Contact-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![Contact](https://img.shields.io/badge/▸%20CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duckingcoregames@gmail.com)
 
 </div>
 
@@ -27,58 +21,33 @@
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=14&duration=4000&pause=1000&color=CC1F1F&background=00000000&center=true&vCenter=true&width=700&height=35&lines=//+WHO+AM+I+%3F" alt="section" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=13&duration=4000&pause=1000&color=CC1F1F&background=00000000&center=true&vCenter=true&width=700&height=30&lines=——————————%20WHO+AM+I+%3F+——————————" alt="section" />
 </div>
 
 <br/>
 
 <div align="center">
+<img src="whoami.svg" width="860"/>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=13&duration=4000&pause=1000&color=CC1F1F&background=00000000&center=true&vCenter=true&width=700&height=30&lines=——————————%20DUCKINGCORE+STUDIO+——————————" alt="section" />
+
+<br/>
+
 <img src="duck.png" width="180" />
-</div>
 
 <br/>
 
-```
-  ╭────────────────────────────────────────────────────────────────────╮
-  │                                                                    │
-  │   I don't wait. I build.                                          │
-  │                                                                    │
-  │   First year of university — already founded an indie             │
-  │   game studio, built a 10-person team from zero,                  │
-  │   and we're shipping our first game.                              │
-  │                                                                    │
-  │   Led multiple teams. Delivered real projects.                    │
-  │   Long-term goal: build things that leave a mark.                 │
-  │                                                                    │
-  ╰────────────────────────────────────────────────────────────────────╯
-```
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=14&duration=4000&pause=1000&color=CC1F1F&background=00000000&center=true&vCenter=true&width=700&height=35&lines=//+DUCKINGCORE+STUDIO" alt="section" />
-
-<br/>
-
-<img src="logo.png" width="480" />
+<img src="logo.png" width="440" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Studio-Founded-CC1F1F?style=for-the-badge&labelColor=0a0000"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Team-10%20People-CC1F1F?style=for-the-badge&labelColor=0a0000"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Game-In%20Development-CC1F1F?style=for-the-badge&labelColor=0a0000"/>
-
-<br/><br/>
-
-> *An indie game studio focused on creating immersive, original experiences.*
-> *We don't follow trends — we set them.*
+<img src="duckingcore_card.svg" width="860"/>
 
 </div>
 
@@ -87,8 +56,7 @@
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=14&duration=4000&pause=1000&color=CC1F1F&background=00000000&center=true&vCenter=true&width=700&height=35&lines=//+CORE+TECHNOLOGIES" alt="section" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=13&duration=4000&pause=1000&color=CC1F1F&background=00000000&center=true&vCenter=true&width=700&height=30&lines=——————————%20CORE+TECHNOLOGIES+——————————" alt="section" />
 
 <br/>
 
@@ -101,8 +69,7 @@
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=14&duration=4000&pause=1000&color=CC1F1F&background=00000000&center=true&vCenter=true&width=700&height=35&lines=//+ENGINEERING+METRICS" alt="section" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=13&duration=4000&pause=1000&color=CC1F1F&background=00000000&center=true&vCenter=true&width=700&height=30&lines=——————————%20ENGINEERING+METRICS+——————————" alt="section" />
 
 <br/>
 
@@ -111,7 +78,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nehirkktn&theme=react-dark&hide_border=true&bg_color=00000000&color=CC1F1F&line=CC1F1F&point=FFFFFF&area=true&area_color=CC1F1F" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nehirkktn&theme=react-dark&hide_border=true&bg_color=00000000&color=CC1F1F&line=CC1F1F&point=FFFFFF&area=true" width="100%" />
 
 <br/>
 
@@ -129,6 +96,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0000,30:8B0000,60:CC1F1F,100:0a0000&height=150&section=footer&animation=fadeIn" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3D0000,100:CC1F1F&height=120&section=footer&animation=fadeIn&reversal=true)
 
 </div>
