@@ -36,19 +36,12 @@
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=13&duration=4000&pause=1000&color=CC1F1F&background=00000000&center=true&vCenter=true&width=700&height=30&lines=——————————%20DUCKINGCORE+STUDIO+——————————" alt="section" />
+</div>
 
 <br/>
 
-<img src="duck.png" width="180" />
-
-<br/>
-
-<img src="logo.png" width="440" />
-
-<br/><br/>
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/Nehirkktn/Nehirkktn/main/duckingcore_card.svg" width="860"/>
-
 </div>
 
 <br/>
