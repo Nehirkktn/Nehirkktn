@@ -1,10 +1,10 @@
 <div align="center">
 
-![header](header.svg)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:3D0000,70:CC1F1F,100:000000&height=220&text=NEHIR%20KOKTEN&fontSize=60&fontColor=ffffff&animation=fadeIn&stroke=FF2222&strokeWidth=2&fontAlign=50&fontAlignY=50&desc=◈%20SOFTWARE%20ENGINEER%20◈%20GAME%20DEVELOPER%20◈%20STUDIO%20FOUNDER%20◈&descSize=14&descColor=FF8888&descAlignY=72)
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=16&duration=2000&pause=600&color=FF0000&background=00000000&center=true&vCenter=true&width=900&height=45&lines=FOUNDER+%40+DUCKINGCORE+—+INDIE+GAME+STUDIO;FIRST+YEAR.+REAL+TEAM.+REAL+GAME.;I+DON'T+WAIT.+I+BUILD.;10-PERSON+TEAM+%7C+GAME+IN+DEVELOPMENT;THE+GOAL%3F+MAKE+SOMETHING+THAT+MATTERS." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=16&duration=2000&pause=600&color=FF0000&background=00000000&center=true&vCenter=true&width=900&height=45&lines=FOUNDER+%40+DUCKINGCORE+—+INDIE+GAME+STUDIO;FIRST+YEAR.+REAL+TEAM.+REAL+GAME.;I+DON'T+WAIT.+I+BUILD.;10-PERSON+TEAM+%7C+GAME+IN+DEVELOPMENT" alt="Typing SVG" />
 
 <br/>
 
@@ -27,7 +27,7 @@
 <br/>
 
 <div align="center">
-<img src="whoami.svg" width="860"/>
+<img src="https://raw.githubusercontent.com/Nehirkktn/Nehirkktn/main/whoami.svg" width="860"/>
 </div>
 
 <br/>
@@ -47,7 +47,7 @@
 
 <br/><br/>
 
-<img src="duckingcore_card.svg" width="860"/>
+<img src="https://raw.githubusercontent.com/Nehirkktn/Nehirkktn/main/duckingcore_card.svg" width="860"/>
 
 </div>
 
@@ -96,6 +96,6 @@
 
 <br/><br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3D0000,100:CC1F1F&height=120&section=footer&animation=fadeIn&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:3D0000,70:CC1F1F,100:000000&height=100&section=footer&animation=fadeIn)
 
 </div>
