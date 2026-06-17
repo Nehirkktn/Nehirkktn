@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:3D0000,70:CC1F1F,100:000000&height=220&text=NEHIR%20KOKTEN&fontSize=60&fontColor=ffffff&animation=fadeIn&stroke=FF2222&strokeWidth=2&fontAlign=50&fontAlignY=50&desc=◈%20SOFTWARE%20ENGINEER%20◈%20GAME%20DEVELOPER%20◈%20STUDIO%20FOUNDER%20◈&descSize=14&descColor=FF8888&descAlignY=72)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:3D0000,70:CC1F1F,100:000000&height=220&text=NEHIR%20KOKTEN&fontSize=60&fontColor=ffffff&animation=fadeIn&stroke=FF2222&strokeWidth=2&fontAlign=50&fontAlignY=50&desc=◈%20SOFTWARE%20ENGINEER%20◈%20GAME%20DEVELOPER%20◈%20DUCKINGCORE%20FOUNDER%20◈&descSize=14&descColor=FF8888&descAlignY=72)
 
 <br/>
 
