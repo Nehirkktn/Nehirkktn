@@ -1,94 +1,50 @@
-<div align="center">
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Terminal window. whoami: Nehir Kökten, Software Engineering student, year 2, Fırat University. Focus: games, security tooling, web platforms. Status: co-founder at DuckingCore, Microsoft Student Ambassador." />
+</p>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:3D0000,70:CC1F1F,100:000000&height=220&text=NEHIR%20KOKTEN&fontSize=60&fontColor=ffffff&animation=fadeIn&stroke=FF2222&strokeWidth=2&fontAlign=50&fontAlignY=50&desc=◈%20SOFTWARE%20ENGINEER%20◈%20GAME%20DEVELOPER%20◈%20DUCKINGCORE%20FOUNDER%20◈&descSize=14&descColor=FF8888&descAlignY=72)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nehir-k%C3%B6kten-561a26377">LinkedIn</a> ·
+  <a href="https://duckingcore.com.tr">duckingcore.com.tr</a> ·
+  <a href="mailto:duckingcoregames@gmail.com">duckingcoregames@gmail.com</a>
+</p>
 
-<br/>
+I learn fastest by shipping. Second-year Software Engineering student, co-founder of an indie game studio, and the project lead behind a tested, containerized security scanner. Below is only what I can link to.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=16&duration=2000&pause=600&color=FF0000&background=00000000&center=true&vCenter=true&width=900&height=45&lines=FOUNDER+%40+DUCKINGCORE+—+INDIE+GAME+STUDIO;FIRST+YEAR.+REAL+TEAM.+REAL+GAME.;I+DON'T+WAIT.+I+BUILD.;10-PERSON+TEAM+%7C+GAME+IN+DEVELOPMENT" alt="Typing SVG" />
+## ▸ Proof of work
 
-<br/>
+| | Project | What I did | Evidence |
+|:-:|---|---|---|
+| 🛡️ | **[Siber Savaşçılar](https://github.com/Nehirkktn/penetration-testing-tool)**<br><sub>OWASP Top 10 scanner</sub> | Led a 5-person team and was the top committer (72 of 127 commits). 8 scan modules (SQLi, XSS, misconfig, access control…), CLI + Flask web panel, HTML / JSON / PDF reports. | 394 tests · `docker compose up` · [live demo](https://sibersavascilar.vercel.app) |
+| 🦆 | **[DuckingCore Platform](https://duckingcore.com.tr)**<br><sub>studio operations panel</sub> | Built our studio's internal platform: role-based permissions, tasks & meetings, push notifications (FCM), TR / EN i18n, Firestore security rules. Set up DNS, hosting and SSL myself. | [duckingcore.com.tr](https://duckingcore.com.tr) |
+| 👾 | **[Astro Cats](https://github.com/Nehirkktn/Astro-Cats)**<br><sub>puzzle game</sub> | Pygame colour-sort puzzle: procedurally generated levels, difficulty that scales every 3 levels, level progression, physics-based block movement. | playthrough below |
+| 🎲 | **Kehanet**<br><sub>PC game · in development</sub> | Unity / C# with a 10-person team: procedural hex tilemap, ScriptableObject-driven AI, character cards. | coming to itch.io |
 
-[![LinkedIn](https://img.shields.io/badge/▸%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nehirkktn/)
-&nbsp;
-[![DuckingCore](https://img.shields.io/badge/▸%20DUCKINGCORE-CC1F1F?style=for-the-badge&logo=itch.io&logoColor=white)](https://itch.io/)
-&nbsp;
-[![Contact](https://img.shields.io/badge/▸%20CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duckingcoregames@gmail.com)
+<p align="center">
+  <img src="./astro-cats-demo.gif" width="480" alt="Astro Cats gameplay: the menu, then a level where coloured alien blocks are lifted and dropped between tubes until each tube holds one colour and the Level Completed screen appears." />
+  <br><sub>Astro Cats, level 4, solved in 13 moves. Recorded from the code in the repo.</sub>
+</p>
 
-</div>
+## ▸ How I work
 
-<br/>
+- **Tests are part of the feature.** The scanner shipped with 394 tests running against local mock servers, not as an afterthought.
+- **Anyone can run it in two minutes.** Every repo gets a README and, where possible, one command to start.
+- **Plan so the team can move in parallel.** Architecture, requirements and task breakdown come first. That is how five people shipped a scanner in six weeks.
 
----
+## ▸ Stack — only what I've shipped with
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=13&duration=4000&pause=1000&color=CC1F1F&background=00000000&center=true&vCenter=true&width=700&height=30&lines=——————————%20WHO+AM+I+%3F+——————————" alt="section" />
-</div>
+**Shipped:** Python · Flask · SQLite · Docker · JavaScript · HTML / CSS · Firebase (Hosting, Firestore, Cloud Messaging) · Pygame<br>
+**In progress:** C# / Unity · Three.js
 
-<br/>
+## ▸ `git log --oneline`
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Nehirkktn/Nehirkktn/main/about.svg" width="860"/>
-</div>
+```text
+2026-09  joined Microsoft Student Ambassadors
+2026     launched duckingcore.com.tr, our studio platform
+2026     led Siber Savaşçılar: 127 commits, 394 tests, shipped
+2026     co-founded DuckingCore, grew the team to 10
+2025     started Software Engineering @ Fırat University
+```
 
-<br/>
+## ▸ Next
 
----
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=13&duration=4000&pause=1000&color=CC1F1F&background=00000000&center=true&vCenter=true&width=700&height=30&lines=——————————%20DUCKINGCORE+STUDIO+——————————" alt="section" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Nehirkktn/Nehirkktn/main/duckingcore_card.svg?v=3" width="860"/>
-</div>
-
-<br/>
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=13&duration=4000&pause=1000&color=CC1F1F&background=00000000&center=true&vCenter=true&width=700&height=30&lines=——————————%20CORE+TECHNOLOGIES+——————————" alt="section" />
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=cs,unity,python,cpp,visualstudio,blender&theme=dark" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=13&duration=4000&pause=1000&color=CC1F1F&background=00000000&center=true&vCenter=true&width=700&height=30&lines=——————————%20ENGINEERING+METRICS+——————————" alt="section" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nehirkktn&show_icons=true&hide_border=true&bg_color=00000000&title_color=CC1F1F&icon_color=CC1F1F&text_color=FFFFFF&ring_color=CC1F1F" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehirkktn&layout=compact&hide_border=true&bg_color=00000000&title_color=CC1F1F&text_color=FFFFFF" height="165" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nehirkktn&theme=react-dark&hide_border=true&bg_color=00000000&color=CC1F1F&line=CC1F1F&point=FFFFFF&area=true" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Nehirkktn&theme=dark&hide_border=true&background=00000000&ring=CC1F1F&fire=FF2222&currStreakLabel=CC1F1F&sideLabels=CC1F1F" width="55%" />
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Nehirkktn&color=CC1F1F&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-![footer](https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:3D0000,70:CC1F1F,100:000000&height=100&section=footer&animation=fadeIn)
-
-</div>
+As a **Microsoft Student Ambassador** I want to bring hands-on build sessions to Fırat University: *ship your first game* and *secure your web app*. If you run a student community and want to collaborate, [email me](mailto:duckingcoregames@gmail.com).
