@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="230" viewBox="0 0 440 230" role="img" aria-label="Kehanet: DuckingCore's first PC game 10 person team, HEX tile world, AI data-driven. Unity · C#.">
+<style>
+text{font-family:'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace}
+.t{fill:#F2F2F2;font-size:19px;font-weight:700;letter-spacing:.5px} .s{fill:#9A9A9A;font-size:12.5px}
+.v{fill:#FF4D4D;font-size:19px;font-weight:700} .l{fill:#8A8A8A;font-size:11px}
+.g{fill:#B8B8B8;font-size:12px} .r{fill:#CC1F1F;font-size:10.5px;font-weight:700;letter-spacing:1.2px}
+.card{transition:stroke .2s}
+</style>
+<defs><linearGradient id="e" x1="0" x2="1"><stop offset="0" stop-color="#CC1F1F"/><stop offset=".7" stop-color="#3D0000"/><stop offset="1" stop-color="#0D0D0D"/></linearGradient></defs>
+<rect x="1" y="1" width="438" height="228" rx="12" fill="#0D0D0D" stroke="#2A2A2A" stroke-width="2"/>
+<rect x="12" y="1" width="416" height="3" fill="url(#e)"/>
+<g transform="translate(46,54)"><path d="M-16 0 C-8 -12 8 -12 16 0 C8 12 -8 12 -16 0 Z" fill="none" stroke="#CC1F1F" stroke-width="2.5"/><circle r="5" fill="#FF5A5A"/></g>
+<text x="76" y="52" class="t">KEHANET</text>
+<text x="76" y="72" class="s">DuckingCore's first PC game</text>
+<text x="24" y="98" class="r">IN DEVELOPMENT · COMING TO ITCH.IO</text>
+<rect x="24" y="112" width="120" height="58" rx="8" fill="#161616" stroke="#2A2A2A"/><text x="38" y="140" class="v">10</text><text x="38" y="160" class="l">person team</text><rect x="156" y="112" width="120" height="58" rx="8" fill="#161616" stroke="#2A2A2A"/><text x="170" y="140" class="v">HEX</text><text x="170" y="160" class="l">tile world</text><rect x="288" y="112" width="120" height="58" rx="8" fill="#161616" stroke="#2A2A2A"/><text x="302" y="140" class="v">AI</text><text x="302" y="160" class="l">data-driven</text>
+<text x="24" y="203" class="g">Unity · C#</text>
+<text x="416" y="203" text-anchor="end" fill="#CC1F1F" font-size="14">→</text>
+</svg>
