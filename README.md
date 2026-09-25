@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Terminal window. whoami: Nehir Kökten, Software Engineering student, year 2, Fırat University. Focus: games, security tooling, web platforms. Status: founder at DuckingCore, Microsoft Student Ambassador." />
+  <img src="./nehir-terminal.svg" width="100%" alt="Terminal window. whoami: Nehir Kökten, Software Engineering student, year 2, Fırat University. Focus: games, security tooling, web platforms. Status: founder at DuckingCore, Microsoft Student Ambassador." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nehir-k%C3%B6kten-561a26377"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=CC1F1F" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/nehir-k%C3%B6kten-561a26377"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logoColor=CC1F1F" alt="LinkedIn" /></a>
   <a href="https://duckingcore.com.tr"><img src="https://img.shields.io/badge/duckingcore.com.tr-0D0D0D?style=for-the-badge&logo=firebase&logoColor=CC1F1F" alt="duckingcore.com.tr" /></a>
   <a href="mailto:duckingcoregames@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=CC1F1F" alt="Email" /></a>
 </p>
@@ -78,7 +78,7 @@
 <br>
 
 <p align="center">
-  <img src="./astro-cats-demo.gif" width="440" alt="Astro Cats gameplay: coloured alien blocks are moved between tubes until each tube holds one colour." />
+  <img src="./astro-cats.gif" width="440" alt="Astro Cats gameplay: coloured alien blocks are moved between tubes until each tube holds one colour." />
   <br><sub>Astro Cats, recorded straight from the repo's code</sub>
 </p>
 
