@@ -1,27 +1,22 @@
 $ whoami
-Nehir Kökten · Yazılım Mühendisliği 2. sınıf, Fırat Üniversitesi · DuckingCore kurucusu
-
-$ history
-  1  üniversitenin ilk yılı: bir oyun stüdyosu kurmaya karar verdim
-  2  okuldaki gruplara duyuru yaptım, ekibi tek tek topladım
-  3  ekip 10 kişiye ulaştı
-  4  iki oyun aynı anda geliştirilmeye başlandı: PC için Kehanet, mobil için Astro Cats
-
-$ tree duckingcore.com.tr
-duckingcore.com.tr
-├── tanıtım sitesi: stüdyo, oyunlar, kurucular (TR / EN)
-├── ekip paneli: herkes sadece kendi rolünün izin verdiği işi görür
-│   ├── görevler ve toplantılar
-│   ├── duyuru akışı
-│   └── bildirimler: panel içi, telefona push, e-posta
-├── mobil uyumlu arayüz, şifre sıfırlama akışı
-└── altyapı: Firebase, Firestore güvenlik kuralları, alan adı + SSL, sıfırdan kuruldu
+Nehir Kökten · Fırat Üniversitesi, Yazılım Mühendisliği 2. sınıf · DuckingCore kurucusu
 
 $ man nehir
-  Önce planlar. 5 kişilik bir ekibi yöneterek 6 haftalık dönem projesini zamanında teslim etti.
-  Bilmediği bir şeyle karşılaşınca beklemez. Öğrenir, dener, yayına alır.
-  Baskı altında sakin kalır ve başladığı işi bitirir.
-  Cesur kararlardan korkmaz, hesapsız olanlardan korkar.
+  Üniversiteye başladığımda bir şeyi erkenden fark ettim: okul bana bazı şeyleri
+  verebilir, ama hepsini değil. Benim amacım büyük ve iyi işler başarmak. Bunun için
+  birinin bana fırsat vermesini ya da kendimi "hazır" hissedeceğim anı beklemedim.
+  Başkalarına bağlı kalmadan, kendi başıma harekete geçtim.
 
-$ nehir --simdi
-Kehanet'i yayına hazırlıyorum · 2027 yazı için oyun geliştirme stajı arıyorum
+  İlk yılımda DuckingCore'u kurdum. Okuldaki gruplara duyurular yaparak ekibi sıfırdan
+  topladım ve 10 kişiye çıkardım. Stüdyonun ihtiyaç duyduğu her şeyi, yani ekibi,
+  düzeni ve üzerinde çalışacağımız sistemleri tek tek inşa ettim.
+
+  Bilmediğim şeylerle karşılaşmaktan çekinmem, çünkü gerçek ilerleme orada başlar.
+  Hızlı öğrenir, daha hızlı uyum sağlarım. Baskı altında sakin kalır, dikkatle planlar
+  ve başladığım işi sonuna kadar götürürüm. Cesur kararlar beni korkutmaz,
+  hesapsız olanlar korkutur.
+
+  Uzun vadede sıradan bir kariyer yolunu izlemek istemiyorum. Hedefim kendi bağımsız
+  işimi büyütmek ve iz bırakan işler üretmek. DuckingCore bunun ilk adımı: kararlarını
+  kendisi veren, şişirilmiş vaatlerin arkasına saklanmayan, kendi yolunu kendi çizen
+  bir stüdyo.
